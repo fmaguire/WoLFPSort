@@ -50,6 +50,12 @@ attribute, locat, range.
 The Perl wrappers should work as long as the relative location of
 the files are maintained.
 
+NOTE: the easiest way to run ``runWolfPsortSummary'' from a directory
+other than the install directory is to use a wrapper script that changes
+automatically to your install directory to run it and then changes back to your
+original directory after finishing.  @peterjc has provided an example at 
+https://github.com/fmaguire/WoLFPSort/issues/1
+
 
 OPTIONAL
 
