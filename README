@@ -24,17 +24,18 @@ EXECUTION
 
 This package contains two scripts to be directly executed:
 
-  ./bin/runWolfPsortSummaryOnly, and ./bin/runWolfPsortHtmlTables
+  ./bin/runWolfPsortSummary, and ./bin/runWolfPsortHtmlTables
 
 
 For a simple, text based, summarized prediction result use:
 
-  ./bin/runWolfPsortSummaryOnly.pl fungi < ./bin/testQuery.fasta
+  ./bin/runWolfPsortSummary fungi < ./bin/testQuery.fasta
 
 
-For a more elaborate and informative html version use:
+# NOTE THIS DOESN'T WORK AUTOMATICALLY #
+For a more elaborate and informative html version use: 
 
-  ./bin/runWolfPsortHtmlTables.pl fungi testOut/ queryName < ./bin/testQuery.fasta
+  ./bin/runWolfPsortHtmlTables fungi testOut/ queryName < ./bin/testQuery.fasta
 
 In this case the results will be written to the directory "testOut/"
 (which use should create first, the script will not create it for you.
