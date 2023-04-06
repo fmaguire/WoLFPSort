@@ -1,16 +1,30 @@
 WoLF PSORT Package Command Line Version 0.1 CITATION document
 Author: Paul Horton
 Copyright: All Rights Reserved
-Created: 2005/9/2
-Last Modified: $Date: 2006/01/10 02:01:04 $
+Created: 20050902
+Updated: 20230404
 
 
-RESEARCH PAPER
+If you use WoLF PSORT for work published in some form,
+please consder citing one or both of the following papers as appropriate.
+
+
+CITATION:
+
+WoLF PSORT SOFTWARE
+
+"WoLF PSORT: protein localization predictor"
+Paul Horton, Keun-Joon Park, Takeshi Obayashi, Naoya Fujita, Hajime Harada, C.J. Adams-Collier, Kenta Nakai
+Nucleic Acids Research, Volume 35, Issue suppl_2, 1 July 2007, Pages W585–W587, https://doi.org/10.1093/nar/gkm259
+
+
+PREDICTION METHOD
 
 "Protein Subcellular Localization Prediction with WoLF PSORT",
 Paul Horton, Keun-Joon Park, Takeshi Obayashi, and Kenta Nakai,
 Asian Pacific Bioinformatics Conference, APCB2006.
 
-In the future wolfpsort.org should be the place to find updated
-information.
+
+
+
 

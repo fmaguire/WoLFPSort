@@ -1,13 +1,24 @@
 WoLF PSORT Package Command Line Version 0.2 License
-Author: Paul Horton
+Author:  Paul Horton and Kenta Nakai.
+         Kenta Nakai is the original developer of the PSORT concept circa 1991.
+         and main author the more important files under the psortModifiedForWolfFiles directory.
+         Paul Horton wrote the parts of WoLF PSORT not present in the
+         original PSORT program.
 Copyright: All Rights Reserved
 Created: 2005/9/1
-Last Modified: 2005/9/1
+Updated: 20230404
 
 
-LICENSE
+LICENSE:  GPLv3
+
+Updated 20230404.
+
+
+
+
 
 1. Academic License
+
 
 If you are an academic you may freely use this package on site or
 redistribute it for academic use as is. This does not include
